@@ -8,7 +8,7 @@ Empleandos tecnologías como HTML5, CSS3 y JavaScript.
 ### Index
 Al ingresar a la aplicación esta es la pantalla principal, sin ninguna lista:
 
-![Index](Vistas/index.jpeg)
+![Index](Vistas/Index.jpeg)
 
 ### Asignando nombre
 Al hacer click en el botón **+** se abre una ventana para asignar el nombre:
@@ -23,7 +23,7 @@ Dentro de una lista, se pueden realizar varias acciones. Por ejemplo agregar tar
 
 Tildar o desmarcar las tareas. Eliminar tareas:
 
-![Eliminar Tarea](Vistas/EliminarTareaDeLaList.jpeg)
+![Eliminar Tarea](Vistas/EliminarTareaDeLaLista.jpeg)
 
 ### Seccion Pendientes - Index
 Con lista.
