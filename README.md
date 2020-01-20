@@ -7,42 +7,49 @@ Empleandos tecnologías como HTML5, CSS3 y JavaScript.
 
 ### Index
 Al ingresar a la aplicación esta es la pantalla principal, sin ninguna lista:
-![Index](vistas/index.jpeg)
+
+![Index](Vistas/index.jpeg)
 
 ### Asignando nombre
 Al hacer click en el botón **+** se abre una ventana para asignar el nombre:
-![Nombre](vistas/CrearAsignarNombre.jpeg)
+
+![Nombre](Vistas/CrearAsignarNombre.jpeg)
 
 ### Dentro de la lista
 
 Dentro de una lista, se pueden realizar varias acciones. Por ejemplo agregar tareas:
-![Tareas](vistas/AgregandoTareas.jpeg)
+
+![Tareas](Vistas/AgregandoTareas.jpeg)
 
 Tildar o desmarcar las tareas. Eliminar tareas:
-![Eliminar Tarea](vistas/EliminarTareaDeLaList.jpeg)
+
+![Eliminar Tarea](Vistas/EliminarTareaDeLaList.jpeg)
 
 ### Seccion Pendientes - Index
 Con lista.
 Estando en la parte principal se puede editar la lista o bien eliminarla.
-![Index](vistas/IndexListasPendientes.jpeg)
+
+![Index](Vistas/IndexListasPendientes.jpeg)
 
 
 #### Editar
-![Index](vistas/EditarLista.jpeg)
+
+![Editar Lista](Vistas/EditarLista.jpeg)
 
 
 #### Eliminar
-![Index](vistas/EliminarLista.jpeg)
+
+![Eliminar Lista](Vistas/EliminarLista.jpeg)
 
 
 ### Seccion Terminados
 Cuando se completan todas las tareas de una lista, es decir las casillas de cada tarea estan tildadas, la lista pasa a la sección de terminados.
 
-![Index](vistas/SeccionTerminados2.jpeg)
+![Terminados](Vistas/SeccionTerminados2.jpeg)
 
 ### Seccion Terminados
 Sí ninguna tarea se completó hasta el momento
-![Index](vistas/SeccionTerminados.jpeg)
+![Terminados Vacio](Vistas/SeccionTerminados.jpeg)
 
 
 
